@@ -1,0 +1,15 @@
+# Local APK and decompiler output should stay outside version control.
+*.apk
+*.apk.*
+jadx-output/
+.DS_Store
+.venv/
+__pycache__/
+logs/
+rust/target/
+desktop/node_modules/
+desktop/dist/
+desktop/src-tauri/target/
+desktop/src-tauri/gen/
+desktop/test-results/
+desktop/playwright-report/

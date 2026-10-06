@@ -1,0 +1,17 @@
+[package]
+name = "unicorn-light-studio"
+version = "0.1.0"
+description = "Mac desktop editor for the MG EX Unicorn BLE light kit"
+edition = "2021"
+
+[lib]
+name = "unicorn_light_studio_lib"
+crate-type = ["staticlib", "cdylib", "rlib"]
+
+[build-dependencies]
+tauri-build = { version = "2", features = [] }
+
+[dependencies]
+tauri = { version = "2", features = [] }
+serde = { version = "1", features = ["derive"] }
+tauri-plugin-dialog = "2"

@@ -1,0 +1,29 @@
+{
+  "source": "unicorn2.png",
+  "coordinateSystem": "unicorn1.png, 844 × 681; left/right are the model's own sides",
+  "points": [
+    {"id":"D1","view":"front","name":"眼部","anchor":[231,89],"label":[105,45],"path":"M220 86 L228 88 L231 91 L239 86 L242 88 L232 95 L222 91 Z","geometry":"schematic"},
+    {"id":"D2","view":"front","name":"面部","anchor":[232,111],"label":[105,77],"bounds":[225,102,242,126]},
+    {"id":"D3","view":"front","name":"右胸","anchor":[191,154],"label":[54,153],"bounds":[176,125,213,184]},
+    {"id":"D4","view":"front","name":"左胸","anchor":[260,156],"label":[422,165],"bounds":[233,128,284,183]},
+    {"id":"D5","view":"front","name":"左肩前侧","anchor":[322,123],"label":[422,112],"bounds":[286,82,375,151]},
+    {"id":"D6","view":"back","name":"左肩后侧","anchor":[537,110],"label":[471,112],"bounds":[512,84,559,126]},
+    {"id":"D7","view":"front","name":"左前臂前侧","anchor":[355,242],"label":[425,236],"bounds":[329,214,388,264]},
+    {"id":"D8","view":"back","name":"左前臂后侧","anchor":[525,235],"label":[467,245],"bounds":[499,211,552,255]},
+    {"id":"D9","view":"front","name":"右肩前侧","anchor":[147,124],"label":[59,111],"bounds":[118,90,179,144]},
+    {"id":"D10","view":"back","name":"右肩后侧","anchor":[706,116],"label":[798,112],"bounds":[668,84,750,145]},
+    {"id":"D11","view":"front","name":"右前臂前侧","anchor":[118,233],"label":[39,229],"bounds":[85,207,146,263]},
+    {"id":"D12","view":"back","name":"右前臂后侧","anchor":[735,239],"label":[798,250],"bounds":[710,214,768,262]},
+    {"id":"D13","view":"back","name":"背部","anchor":[610,149],"label":[796,175],"bounds":[570,90,649,189]},
+    {"id":"D14","view":"front","name":"腹部","anchor":[221,203],"label":[55,193],"path":"M205 191 L218 198 L237 191 L237 202 L225 209 L212 205 Z M212 208 L225 213 L236 207 L233 216 L222 220 L215 217 Z","geometry":"schematic"},
+    {"id":"D15","view":"front","name":"右腰裙甲","anchor":[174,256],"label":[48,274],"bounds":[146,232,203,292]},
+    {"id":"D16","view":"front","name":"左腰裙甲","anchor":[276,266],"label":[423,279],"bounds":[239,230,321,295]},
+    {"id":"D17","view":"front","name":"胯部","anchor":[219,255],"label":[223,295],"bounds":[202,229,238,286]},
+    {"id":"D18","view":"front","name":"左大腿","anchor":[280,318],"label":[426,324],"bounds":[248,298,325,339]},
+    {"id":"D19","view":"front","name":"左膝","anchor":[302,363],"label":[429,382],"bounds":[278,341,329,390]},
+    {"id":"D20","view":"front","name":"左小腿","anchor":[351,496],"label":[444,509],"bounds":[319,452,416,616]},
+    {"id":"D21","view":"front","name":"右大腿","anchor":[170,313],"label":[61,322],"bounds":[147,290,218,335]},
+    {"id":"D22","view":"front","name":"右膝及膝下甲","anchor":[126,382],"label":[38,396],"bounds":[99,335,165,449]},
+    {"id":"D23","view":"front","name":"右小腿","anchor":[129,505],"label":[37,516],"bounds":[103,482,196,565]}
+  ]
+}
