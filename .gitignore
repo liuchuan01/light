@@ -13,3 +13,4 @@ desktop/src-tauri/target/
 desktop/src-tauri/gen/
 desktop/test-results/
 desktop/playwright-report/
+desktop/ble-core/target/

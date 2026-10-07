@@ -2,7 +2,7 @@
   "source": "unicorn2.png",
   "coordinateSystem": "unicorn1.png, 844 × 681; left/right are the model's own sides",
   "points": [
-    {"id":"D1","view":"front","name":"眼部","anchor":[231,89],"label":[105,45],"path":"M220 86 L228 88 L231 91 L239 86 L242 88 L232 95 L222 91 Z","geometry":"schematic"},
+    {"id":"D1","view":"front","name":"眼部","anchor":[231,97],"label":[105,45],"path":"M220 94 L228 96 L228 99 L221 97 Z M235 96 L246 93 L244 97 L235 99 Z","geometry":"schematic"},
     {"id":"D2","view":"front","name":"面部","anchor":[232,111],"label":[105,77],"bounds":[225,102,242,126]},
     {"id":"D3","view":"front","name":"右胸","anchor":[191,154],"label":[54,153],"bounds":[176,125,213,184]},
     {"id":"D4","view":"front","name":"左胸","anchor":[260,156],"label":[422,165],"bounds":[233,128,284,183]},
@@ -15,7 +15,7 @@
     {"id":"D11","view":"front","name":"右前臂前侧","anchor":[118,233],"label":[39,229],"bounds":[85,207,146,263]},
     {"id":"D12","view":"back","name":"右前臂后侧","anchor":[735,239],"label":[798,250],"bounds":[710,214,768,262]},
     {"id":"D13","view":"back","name":"背部","anchor":[610,149],"label":[796,175],"bounds":[570,90,649,189]},
-    {"id":"D14","view":"front","name":"腹部","anchor":[221,203],"label":[55,193],"path":"M205 191 L218 198 L237 191 L237 202 L225 209 L212 205 Z M212 208 L225 213 L236 207 L233 216 L222 220 L215 217 Z","geometry":"schematic"},
+    {"id":"D14","view":"front","name":"腰腹横向灯带","anchor":[236,204],"label":[55,193],"path":"M192 195 L210 202 L235 203 L257 194 L264 198 L279 198 L278 202 L263 204 L256 201 L236 209 L210 208 L191 201 Z","geometry":"schematic"},
     {"id":"D15","view":"front","name":"右腰裙甲","anchor":[174,256],"label":[48,274],"bounds":[146,232,203,292]},
     {"id":"D16","view":"front","name":"左腰裙甲","anchor":[276,266],"label":[423,279],"bounds":[239,230,321,295]},
     {"id":"D17","view":"front","name":"胯部","anchor":[219,255],"label":[223,295],"bounds":[202,229,238,286]},

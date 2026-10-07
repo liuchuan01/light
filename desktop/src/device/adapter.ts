@@ -6,12 +6,12 @@ export interface DeviceSnapshot {
   preview: { scene: Scene; points: number[] } | null;
 }
 export interface DeviceAdapter {
-  readonly kind: 'mock';
+  readonly kind: 'mock' | 'ble';
   getSnapshot(): DeviceSnapshot;
   subscribe(listener: () => void): () => void;
-  connect(): Promise<void>;
-  disconnect(): void;
+  connect(id?: string): Promise<void>;
+  disconnect(): void | Promise<void>;
   activate(scene: Scene): Promise<void>;
   preview(scene: Scene, points: number[]): Promise<void>;
-  stop(): void;
+  stop(): void | Promise<void>;
 }
